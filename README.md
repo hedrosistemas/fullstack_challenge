@@ -97,7 +97,7 @@ Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los d
 - Exemplos práticos de conhecimento em NodeJS e TypeScript e suas APIs padrões
 - Orientação a testes 
 
-# FAQ :question:
+# FAQ
 > Como devo fazer a entrega do desafio?
 
 - Envie o link do seu repositório de código particular para quem te fez a solicitação de execução desse desafio.
