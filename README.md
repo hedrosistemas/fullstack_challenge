@@ -72,14 +72,8 @@ Vamos criar então uma aplicação que nos permita consultar, criar e editar ess
 - Fique a vontade para utilizar bibliotecas de componentes de mercado ou criar os seus
 - Utilize **TypeScript**
 
-## Diferencial
-- Testes unitários no backend e/ou no frontend
-- Documentação clara do código. Código comentado sempre é bom!
-- Boas mensagens de commit ajudam!
-
 ## Requisitos não funcionais
 - Um arquivo README.md com o resumo de escolhas por frameworks, bibliotecas, banco de dados e como executar seu projeto.
-
 
 ## Opcional - Requisitos avançados
 
@@ -88,6 +82,12 @@ Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los d
 - Configuração Docker para build da imagem do projeto, docker compose para subir banco de dados com carga inicial necessária (migrations, seeders).
 - Criar mecanismo completo de autenticação e autorização (authentication/authorization/etc.) , como OAuth.
 - Criar mecanismo de log e auditoria (quando/como/quem etc.).
+
+## Diferencial
+- Testes unitários no backend e/ou no frontend.
+- Um bom design de interface para o frontend.
+- Documentação clara do código. Código comentado sempre é bom!
+- Boas mensagens de commit ajudam!
 
 # Com o que nos preocupamos
 - Com certeza muito mais do que o desafio completo é avaliarmos suas competências e habilidades até o ponto em que chegou.
