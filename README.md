@@ -93,7 +93,7 @@ Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los d
 - Com certeza muito mais do que o desafio completo é avaliarmos suas competências e habilidades até o ponto em que chegou.
 - Sabemos que nem todos temos o mesmo tempo disponível, então como dissemos fique a vontade para ir até onde conseguir ou solicitar mais tempo para o processo, transparência total.
 - Sinta-se livre pra usar bibliotecas de código aberto se fizerem sentido, e lembre que avaliaremos sua capacidade de resolver problemas reais.
-- Procuramos por código funcional e limpo
+- Procuramos por código funcionando e limpo
 - Exemplos práticos de conhecimento em NodeJS e TypeScript e suas APIs padrões
 - Orientação a testes 
 
